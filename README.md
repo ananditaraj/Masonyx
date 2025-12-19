@@ -26,10 +26,11 @@
 
 ## ⚙Tech Stack
 
-- **HTML5**, **CSS3** — Clean layout and responsiveness
-- **JavaScript** — Core logic for Mason’s Gain Formula
-- (Optional) **React / Vue** — for dynamic input handling (if applicable)
-- (Optional) **MathJax** or **KaTeX** — for displaying formulas beautifully
+- **Frontend:** React.js, JavaScript
+- **Backend:** ASP.NET Core Web API (.NET, C#)
+- **Database:** Azure SQL / Cosmos DB
+- **Cloud:** Azure App Service, Azure Blob Storage
+- **Monitoring:** Azure Application Insights
 
 ---
 # Contributers:

@@ -36,6 +36,7 @@
 - **Design & Prototyping:** Figma
 
 ---
-# Contributers:
-- @Shashwata32
-- @ananditaraj
+# Contributors
+- [Shashwata32](https://github.com/Shashwata32)
+- [ananditaraj](https://github.com/ananditaraj)
+

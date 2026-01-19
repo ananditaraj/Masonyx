@@ -1,7 +1,7 @@
 # Masonyx.  
 **Your Minimal and Intuitive Mason Gain Formula Calculator**
-**[live demo](https://drive.google.com/file/d/1S5yQu-J_9enMjgOLq66B2F7gWT_6VfeW/view?usp=shari
-**[live link]([https://drive.google.com/file/d/1S5yQu-J_9enMjgOLq66B2F7gWT_6VfeW/view?usp=sharing](https://mason-frontend-2xdn.onrender.com/index.html))**
+**[live demo]([https://drive.google.com/file/d/1S5yQu-J_9enMjgOLq66B2F7gWT_6VfeW/view?usp=sharing])**
+**[live link]((https://mason-frontend-2xdn.onrender.com/index.html))**
 
 
 ---
@@ -28,11 +28,10 @@
 
 ## ⚙Tech Stack
 
-- **Frontend:** React.js, JavaScript
-- **Backend:** ASP.NET Core Web API (.NET, C#)
-- **Database:** Azure SQL / Cosmos DB
-- **Cloud:** Azure App Service, Azure Blob Storage
-- **Monitoring:** Azure Application Insights
+- **Frontend:** JavaScript (ES6+)
+- **Backend:** Python, Flask (REST APIs)
+- **Version Control:** Git, GitHub
+- **Design & Prototyping:** Figma
 
 ---
 # Contributers:
